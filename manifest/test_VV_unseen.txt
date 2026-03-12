@@ -1,0 +1,411 @@
+/dataset/EARS_final/VVs/p001_emo_adoration_sentences_1.wav	I had the best time with you. You're just the sweetest person I know, and I'm so happy to call you my friend.	p001_emo_adoration_sentences_0.wav	1.7	0.0
+/dataset/EARS_final/VVs/p001_emo_amazement_sentences_1.wav	You're so impressive. I just love how you can play guitar.	p001_emo_amazement_sentences_0.wav	1.2	0.0
+/dataset/EARS_final/VVs/p001_emo_amusement_sentences_1.wav	I like that stand-up comic. I found it pretty funny. The sound that baby just made was quite amusing.	p001_emo_amusement_sentences_0.wav	4.0	0.0
+/dataset/EARS_final/VVs/p001_emo_anger_sentences_1.wav	I can't believe he said that. He's such a jerk. I am so mad right now, I could punch a hole in the wall.	p001_emo_anger_sentences_0.wav	2.7	0.0
+/dataset/EARS_final/VVs/p001_emo_confusion_sentences_1.wav	What is this? Where are we going? Huh? What is going on over here?	p001_emo_confusion_sentences_0.wav	2.3	0.0
+/dataset/EARS_final/VVs/p001_emo_contentment_sentences_1.wav	Everything is working out just fine. I really enjoyed dinner tonight. It was quite nice.	p001_emo_contentment_sentences_0.wav	1.8	0.0
+/dataset/EARS_final/VVs/p001_emo_cuteness_sentences_1.wav	Oh my goodness, she's so cute. Look at that cute little kitty cat.	p001_emo_cuteness_sentences_0.wav	2.5	0.0
+/dataset/EARS_final/VVs/p001_emo_desire_sentences_1.wav	I want that car so badly. Hmm, that chocolate fudge lava cake looks divine.	p001_emo_desire_sentences_0.wav	2.7	0.0
+/dataset/EARS_final/VVs/p001_emo_disappointment_sentences_1.wav	I wish I had worked harder. I am so disappointed in myself.	p001_emo_disappointment_sentences_0.wav	1.4	0.0
+/dataset/EARS_final/VVs/p001_emo_disgust_sentences_1.wav	This is the worst dinner I've ever had. I've never seen anything grosser than this in my entire life.	p001_emo_disgust_sentences_0.wav	2.2	0.0
+/dataset/EARS_final/VVs/p001_emo_distress_sentences_1.wav	This is all too stressful to handle right now. Oh god, I'm not sure if we're gonna make this flight on time.	p001_emo_distress_sentences_0.wav	3.1	0.0
+/dataset/EARS_final/VVs/p001_emo_embarassment_sentences_1.wav	I hope no one saw that. I'd be so mortified if they did. I don't know what happened. I followed the recipe perfectly, but the cake just deflated. I'm so embarrassed.	p001_emo_embarassment_sentences_0.wav	3.6	0.0
+/dataset/EARS_final/VVs/p001_emo_extasy_sentences_1.wav	I can't believe I got to see that. This is the most exciting thing I've ever seen in my life.	p001_emo_extasy_sentences_0.wav	1.9	0.0
+/dataset/EARS_final/VVs/p001_emo_fear_sentences_1.wav	Oh my gosh! What is that? What do you think is going to happen if we don't run? Did you hear that sound? I'm afraid someone or something is outside.	p001_emo_fear_sentences_0.wav	5.4	0.0
+/dataset/EARS_final/VVs/p001_emo_interest_sentences_1.wav	Oh, what is that over there? Hmm, I wonder what that cookie tastes like?	p001_emo_interest_sentences_0.wav	3.0	0.0
+/dataset/EARS_final/VVs/p001_emo_neutral_sentences_1.wav	There is one more piece of bread in the pantry. That wall in the living room is white.	p001_emo_neutral_sentences_0.wav	4.0	0.0
+/dataset/EARS_final/VVs/p001_emo_pain_sentences_1.wav	My foot hurts so badly right now. Oh, this headache is the worst one I've ever had.	p001_emo_pain_sentences_0.wav	2.1	0.0
+/dataset/EARS_final/VVs/p001_emo_pride_sentences_1.wav	I've worked hard to get here and I deserve it. I'm really proud of how well you did. That was all on me. I'm the one who found the project, created the company and made it succeed.	p001_emo_pride_sentences_0.wav	7.0	0.0
+/dataset/EARS_final/VVs/p001_emo_realization_sentences_1.wav	Did you know that a flamingo is actually white, Wow, I never knew that the body was made up of 75% water.	p001_emo_realization_sentences_0.wav	2.2	0.0
+/dataset/EARS_final/VVs/p001_emo_relief_sentences_1.wav	over with. Thank goodness that's all done. I'm so relieved my taxes are done. That was so stressful. I'm so relieved this is	p001_emo_relief_sentences_0.wav	3.3	0.0
+/dataset/EARS_final/VVs/p001_emo_sadness_sentences_1.wav	I really miss her. Life isn't the same without her. I am so upset by the state of the world. I hope it gets better soon.	p001_emo_sadness_sentences_0.wav	3.1	0.0
+/dataset/EARS_final/VVs/p001_emo_serenity_sentences_1.wav	I am very calm right now. This has been the most peaceful day of my life.	p001_emo_serenity_sentences_0.wav	1.7	0.0
+/dataset/EARS_final/VVs/p002_emo_adoration_sentences_1.wav	I had the best time with you. You're just the sweetest person I know and I'm so happy to call you my friend.	p002_emo_adoration_sentences_0.wav	2.0	0.0
+/dataset/EARS_final/VVs/p002_emo_amusement_sentences_1.wav	I liked that stand-up comic. I found her pretty funny. The sound that baby made was just quite amusing.	p002_emo_amusement_sentences_0.wav	2.5	0.0
+/dataset/EARS_final/VVs/p002_emo_anger_sentences_1.wav	I can't believe he said that. He's such a jerk. I'm so mad right now I could punch a hole in the wall.	p002_emo_anger_sentences_0.wav	2.1	0.0
+/dataset/EARS_final/VVs/p002_emo_confusion_sentences_1.wav	What is this? Huh. What is going on over here?	p002_emo_confusion_sentences_0.wav	1.2	0.0
+/dataset/EARS_final/VVs/p002_emo_contentment_sentences_1.wav	Everything is working out just fine. I really enjoyed dinner tonight. It was quite nice.	p002_emo_contentment_sentences_0.wav	1.6	0.0
+/dataset/EARS_final/VVs/p002_emo_cuteness_sentences_1.wav	Oh my goodness, she's so cute. Look at that cute little kitty cat.	p002_emo_cuteness_sentences_0.wav	1.7	0.0
+/dataset/EARS_final/VVs/p002_emo_desire_sentences_1.wav	I want that car so badly. Mmm, that chocolate fudge lava cake looks divine.	p002_emo_desire_sentences_0.wav	1.4	0.0
+/dataset/EARS_final/VVs/p002_emo_disappointment_sentences_1.wav	I had such higher expectations for you. I'm so disappointed in myself. I wish I had worked harder.	p002_emo_disappointment_sentences_0.wav	2.5	0.0
+/dataset/EARS_final/VVs/p002_emo_disgust_sentences_1.wav	This is the worst dinner I've ever had. Okay, I've never seen anything grosser than this in my entire life.	p002_emo_disgust_sentences_0.wav	1.8	0.0
+/dataset/EARS_final/VVs/p002_emo_distress_sentences_1.wav	This is all too stressful to handle right now. Oh God, I am not sure if we are going to make this flight on time.	p002_emo_distress_sentences_0.wav	2.2	0.0
+/dataset/EARS_final/VVs/p002_emo_embarassment_sentences_1.wav	I'm so embarrassed. I hope no one saw that. I'd be so mortified if they did. I don't know what happened. I followed the recipe perfectly, but the cake just deflated.	p002_emo_embarassment_sentences_0.wav	5.8	0.0
+/dataset/EARS_final/VVs/p002_emo_extasy_sentences_1.wav	I can't believe I got to see that. This is the most exciting thing I've ever seen in my life.	p002_emo_extasy_sentences_0.wav	1.8	0.0
+/dataset/EARS_final/VVs/p002_emo_fear_sentences_1.wav	I'm afraid someone or something is outside. Did you hear that sound?	p002_emo_fear_sentences_0.wav	2.4	0.0
+/dataset/EARS_final/VVs/p002_emo_interest_sentences_1.wav	Oh, what was that over there? Hmm, I wonder what that cookie tastes like.	p002_emo_interest_sentences_0.wav	3.7	0.0
+/dataset/EARS_final/VVs/p002_emo_neutral_sentences_1.wav	There is one more piece of bread in the pantry. That wall in the living room was white.	p002_emo_neutral_sentences_0.wav	2.3	0.0
+/dataset/EARS_final/VVs/p002_emo_pain_sentences_1.wav	My foot hurts so badly right now. This headache is the worst I've ever had.	p002_emo_pain_sentences_0.wav	2.5	0.0
+/dataset/EARS_final/VVs/p002_emo_pride_sentences_1.wav	I have worked hard to get here, and I deserve it. That was all me. I'm the one who found the project, created the company, and made it succeed.	p002_emo_pride_sentences_0.wav	2.2	0.0
+/dataset/EARS_final/VVs/p002_emo_realization_sentences_1.wav	Did you know that the flamingo is actually white but turns pink because it eats so much shrimp? Wow, I never knew that the body was made up of 75% water.	p002_emo_realization_sentences_0.wav	5.2	0.0
+/dataset/EARS_final/VVs/p002_emo_relief_sentences_1.wav	I'm so relieved that's over with. I'm so relieved my taxes are done. That was so stressful.	p002_emo_relief_sentences_0.wav	1.8	0.0
+/dataset/EARS_final/VVs/p002_emo_sadness_sentences_1.wav	I really miss her. Life isn't the same without her. I am so upset by the state of the world. I hope it gets better soon.	p002_emo_sadness_sentences_0.wav	4.0	0.0
+/dataset/EARS_final/VVs/p002_emo_serenity_sentences_1.wav	I am very calm right now. This has been the most peaceful day of my life.	p002_emo_serenity_sentences_0.wav	1.5	0.0
+/dataset/EARS_final/VVs/p003_emo_adoration_sentences_1.wav	I had the best time with you. I just adore you. You're just the sweetest person I know, and I am so happy to call you my friend.	p003_emo_adoration_sentences_0.wav	3.4	0.0
+/dataset/EARS_final/VVs/p003_emo_amazement_sentences_1.wav	You're so impressive. I just love how you can play guitar.	p003_emo_amazement_sentences_0.wav	1.6	0.0
+/dataset/EARS_final/VVs/p003_emo_amusement_sentences_1.wav	I liked that stand-up comic. I found her pretty funny. The sound that baby just made was quite amusing.	p003_emo_amusement_sentences_0.wav	3.4	0.0
+/dataset/EARS_final/VVs/p003_emo_anger_sentences_1.wav	I can't believe he said that. He's such a jerk. I'm so mad right now I could punch a hole in the wall.	p003_emo_anger_sentences_0.wav	3.3	0.0
+/dataset/EARS_final/VVs/p003_emo_contentment_sentences_1.wav	Everything is working out just fine. I really enjoyed dinner tonight. It was quite nice.	p003_emo_contentment_sentences_0.wav	2.6	0.0
+/dataset/EARS_final/VVs/p003_emo_desire_sentences_1.wav	I want that car so badly. Mmm, that chocolate fudge lava cake looks divine.	p003_emo_desire_sentences_0.wav	2.4	0.0
+/dataset/EARS_final/VVs/p003_emo_disappointment_sentences_1.wav	I had such higher expectations for you. I'm so disappointed in myself. I wish I had worked harder.	p003_emo_disappointment_sentences_0.wav	3.4	0.0
+/dataset/EARS_final/VVs/p003_emo_disgust_sentences_1.wav	This is the worst dinner I've ever had. I've never seen anything grosser than this in my entire life.	p003_emo_disgust_sentences_0.wav	2.9	0.0
+/dataset/EARS_final/VVs/p003_emo_distress_sentences_1.wav	I am not sure if we're going to make this fight on time. Oh, God.	p003_emo_distress_sentences_0.wav	3.3	0.0
+/dataset/EARS_final/VVs/p003_emo_embarassment_sentences_1.wav	I'm so embarrassed. I hope no one saw that. I'd be so mortified if they did. I don't know what happened. I followed the recipe perfectly, but the cake just deflated.	p003_emo_embarassment_sentences_0.wav	7.1	0.0
+/dataset/EARS_final/VVs/p003_emo_extasy_sentences_1.wav	I can't believe I get to see that! This is the most exciting thing I've ever seen in my life!	p003_emo_extasy_sentences_0.wav	2.5	0.0
+/dataset/EARS_final/VVs/p003_emo_fear_sentences_1.wav	Oh my gosh, what is that? Did you hear that sound? I'm afraid someone or something is outside.	p003_emo_fear_sentences_0.wav	2.3	0.0
+/dataset/EARS_final/VVs/p003_emo_interest_sentences_1.wav	Ooh, what is that over there? Hmm, I wonder what that cookie tastes like.	p003_emo_interest_sentences_0.wav	3.0	0.0
+/dataset/EARS_final/VVs/p003_emo_neutral_sentences_1.wav	There is one more piece of bread in the pantry. That wall in the living room is white.	p003_emo_neutral_sentences_0.wav	2.3	0.0
+/dataset/EARS_final/VVs/p003_emo_pain_sentences_1.wav	My foot hurts so badly right now. Ugh, this headache is the worst one I've ever had.	p003_emo_pain_sentences_0.wav	3.0	0.0
+/dataset/EARS_final/VVs/p003_emo_pride_sentences_1.wav	I have worked hard to get here, and I deserve it. That was all me. I'm the one who found the project, created the company, and made it succeed.	p003_emo_pride_sentences_0.wav	3.5	0.0
+/dataset/EARS_final/VVs/p003_emo_realization_sentences_1.wav	Did you know that a flamingo is actually white but turns pink because it eats so much shrimp? Wow, I never knew that the body was made up of 75% water.	p003_emo_realization_sentences_0.wav	6.1	0.0
+/dataset/EARS_final/VVs/p003_emo_relief_sentences_1.wav	I'm so relieved that is over with. Thank goodness that's all done. I'm so relieved my taxes are done. That was so stressful.	p003_emo_relief_sentences_0.wav	5.6	0.0
+/dataset/EARS_final/VVs/p003_emo_sadness_sentences_1.wav	I hope it gets better soon. I am so upset by the state of the world.	p003_emo_sadness_sentences_0.wav	2.0	0.0
+/dataset/EARS_final/VVs/p003_emo_serenity_sentences_1.wav	I am very calm right now. This has been the most peaceful day of my life.	p003_emo_serenity_sentences_0.wav	2.0	0.0
+/dataset/EARS_final/VVs/p004_emo_adoration_sentences_1.wav	I had the best time with you. You're just the sweetest person I know and I'm so happy to call you my friend.	p004_emo_adoration_sentences_0.wav	2.1	0.0
+/dataset/EARS_final/VVs/p004_emo_amazement_sentences_1.wav	You're so impressive. I just love how you can play guitar.	p004_emo_amazement_sentences_0.wav	1.2	0.0
+/dataset/EARS_final/VVs/p004_emo_amusement_sentences_1.wav	I like that stand-up comic. I found her pretty funny. The sound that baby just made was quite amusing.	p004_emo_amusement_sentences_0.wav	2.9	0.0
+/dataset/EARS_final/VVs/p004_emo_anger_sentences_1.wav	I can't believe he said that. He's such a jerk. I'm so mad right now. I could punch a hole in the wall.	p004_emo_anger_sentences_0.wav	4.0	0.0
+/dataset/EARS_final/VVs/p004_emo_contentment_sentences_1.wav	Everything's working out just fine. I really enjoyed dinner tonight. It was quite nice.	p004_emo_contentment_sentences_0.wav	1.9	0.0
+/dataset/EARS_final/VVs/p004_emo_cuteness_sentences_1.wav	Oh my goodness, she's so cute. Look at that cute little kitty cat.	p004_emo_cuteness_sentences_0.wav	2.4	0.0
+/dataset/EARS_final/VVs/p004_emo_desire_sentences_1.wav	I want that car so badly. Mmm, that chocolate fudge lava cake looks divine.	p004_emo_desire_sentences_0.wav	2.4	0.0
+/dataset/EARS_final/VVs/p004_emo_disappointment_sentences_1.wav	I had such higher expectations for you. I'm so disappointed in myself. I wish I had worked harder.	p004_emo_disappointment_sentences_0.wav	2.1	0.0
+/dataset/EARS_final/VVs/p004_emo_disgust_sentences_1.wav	This is the worst dinner I've ever had. I've never seen anything grosser than this in my entire life.	p004_emo_disgust_sentences_0.wav	2.7	0.0
+/dataset/EARS_final/VVs/p004_emo_distress_sentences_1.wav	This is all too stressful to handle right now. Oh god, I'm not sure if we're gonna make this flight on time.	p004_emo_distress_sentences_0.wav	2.4	0.0
+/dataset/EARS_final/VVs/p004_emo_embarassment_sentences_1.wav	I hope no one saw that. I'd be mortified if they did. I don't know what happened. I followed the recipe perfectly, but the cake just deflated. I'm so embarrassed.	p004_emo_embarassment_sentences_0.wav	3.4	0.0
+/dataset/EARS_final/VVs/p004_emo_extasy_sentences_1.wav	I can't believe I got to see that. That is the most exciting thing I've ever seen in my life!	p004_emo_extasy_sentences_0.wav	3.1	0.0
+/dataset/EARS_final/VVs/p004_emo_fear_sentences_1.wav	Oh my gosh, what is that? Did you hear that sound? I'm afraid someone or something is outside.	p004_emo_fear_sentences_0.wav	2.1	0.0
+/dataset/EARS_final/VVs/p004_emo_interest_sentences_1.wav	Ooh, what is that over there? Hmm, I wonder what that cookie tastes like.	p004_emo_interest_sentences_0.wav	2.0	0.0
+/dataset/EARS_final/VVs/p004_emo_neutral_sentences_1.wav	There is one more piece of bread in the pantry. That wall in the living room is white.	p004_emo_neutral_sentences_0.wav	2.0	0.0
+/dataset/EARS_final/VVs/p004_emo_pain_sentences_1.wav	My foot hurts so badly right now. Ow, this headache is the worst one I've ever had.	p004_emo_pain_sentences_0.wav	2.2	0.0
+/dataset/EARS_final/VVs/p004_emo_pride_sentences_1.wav	I have worked hard to get here, and I deserve it. That was all me. I'm the one who found the project, created the company, and made it succeed.	p004_emo_pride_sentences_0.wav	2.5	0.0
+/dataset/EARS_final/VVs/p004_emo_realization_sentences_1.wav	Did you know that a flamingo is actually white but turns pink because it eats so much shrimp? Wow, I never knew that the body was made up of 75% water.	p004_emo_realization_sentences_0.wav	8.2	0.0
+/dataset/EARS_final/VVs/p004_emo_relief_sentences_1.wav	That was so stressful. I'm so relieved my taxes are done.	p004_emo_relief_sentences_0.wav	1.1	0.0
+/dataset/EARS_final/VVs/p004_emo_sadness_sentences_1.wav	I really miss her. Life isn't the same without her. I'm so upset by the state of the world. I hope it gets better soon.	p004_emo_sadness_sentences_0.wav	2.9	0.0
+/dataset/EARS_final/VVs/p004_emo_serenity_sentences_1.wav	I am very calm right now. This has been the most peaceful day of my life.	p004_emo_serenity_sentences_0.wav	1.8	0.0
+/dataset/EARS_final/VVs/p001_emo_adoration_sentences_0.wav	You're just the sweetest person I know, and I'm so happy to call you my friend. I had the best time with you.	p001_emo_adoration_sentences_1.wav	6.5	0.0
+/dataset/EARS_final/VVs/p001_emo_amazement_sentences_0.wav	I just love how you can play guitar. You're so impressive.	p001_emo_amazement_sentences_1.wav	2.9	0.0
+/dataset/EARS_final/VVs/p001_emo_amusement_sentences_0.wav	The sound that baby just made was quite amusing. I like that stand-up comic. I found it pretty funny.	p001_emo_amusement_sentences_1.wav	3.0	0.0
+/dataset/EARS_final/VVs/p001_emo_anger_sentences_0.wav	I am so mad right now, I could punch a hole in the wall. I can't believe he said that. He's such a jerk.	p001_emo_anger_sentences_1.wav	3.6	0.0
+/dataset/EARS_final/VVs/p001_emo_confusion_sentences_0.wav	Huh? What is going on over here? What is this? Where are we going?	p001_emo_confusion_sentences_1.wav	3.1	0.0
+/dataset/EARS_final/VVs/p001_emo_contentment_sentences_0.wav	I really enjoyed dinner tonight. It was quite nice. Everything is working out just fine.	p001_emo_contentment_sentences_1.wav	3.5	0.0
+/dataset/EARS_final/VVs/p001_emo_cuteness_sentences_0.wav	Look at that cute little kitty cat. Oh my goodness, she's so cute.	p001_emo_cuteness_sentences_1.wav	2.9	0.0
+/dataset/EARS_final/VVs/p001_emo_desire_sentences_0.wav	Hmm, that chocolate fudge lava cake looks divine. I want that car so badly.	p001_emo_desire_sentences_1.wav	4.5	0.0
+/dataset/EARS_final/VVs/p001_emo_disappointment_sentences_0.wav	I am so disappointed in myself. I wish I had worked harder.	p001_emo_disappointment_sentences_1.wav	2.5	0.0
+/dataset/EARS_final/VVs/p001_emo_disgust_sentences_0.wav	I've never seen anything grosser than this in my entire life. This is the worst dinner I've ever had.	p001_emo_disgust_sentences_1.wav	6.5	0.0
+/dataset/EARS_final/VVs/p001_emo_distress_sentences_0.wav	Oh god, I'm not sure if we're gonna make this flight on time. This is all too stressful to handle right now.	p001_emo_distress_sentences_1.wav	4.7	0.0
+/dataset/EARS_final/VVs/p001_emo_embarassment_sentences_0.wav	I don't know what happened. I followed the recipe perfectly, but the cake just deflated. I'm so embarrassed. I hope no one saw that. I'd be so mortified if they did.	p001_emo_embarassment_sentences_1.wav	6.7	0.0
+/dataset/EARS_final/VVs/p001_emo_extasy_sentences_0.wav	This is the most exciting thing I've ever seen in my life. I can't believe I got to see that.	p001_emo_extasy_sentences_1.wav	3.5	0.0
+/dataset/EARS_final/VVs/p001_emo_fear_sentences_0.wav	Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh! What is that? What do you think is going to happen if we don't run?	p001_emo_fear_sentences_1.wav	5.1	0.0
+/dataset/EARS_final/VVs/p001_emo_interest_sentences_0.wav	Hmm, I wonder what that cookie tastes like? Oh, what is that over there?	p001_emo_interest_sentences_1.wav	4.0	0.0
+/dataset/EARS_final/VVs/p001_emo_neutral_sentences_0.wav	That wall in the living room is white. There is one more piece of bread in the pantry.	p001_emo_neutral_sentences_1.wav	3.0	0.0
+/dataset/EARS_final/VVs/p001_emo_pain_sentences_0.wav	Oh, this headache is the worst one I've ever had. My foot hurts so badly right now.	p001_emo_pain_sentences_1.wav	4.1	0.0
+/dataset/EARS_final/VVs/p001_emo_pride_sentences_0.wav	That was all on me. I'm the one who found the project, created the company and made it succeed. I've worked hard to get here and I deserve it. I'm really proud of how well you did.	p001_emo_pride_sentences_1.wav	7.0	0.0
+/dataset/EARS_final/VVs/p001_emo_realization_sentences_0.wav	Wow, I never knew that the body was made up of 75% water. Did you know that a flamingo is actually white,	p001_emo_realization_sentences_1.wav	5.1	0.0
+/dataset/EARS_final/VVs/p001_emo_relief_sentences_0.wav	I'm so relieved my taxes are done. That was so stressful. I'm so relieved this is over with. Thank goodness that's all done.	p001_emo_relief_sentences_1.wav	7.2	0.0
+/dataset/EARS_final/VVs/p001_emo_sadness_sentences_0.wav	I am so upset by the state of the world. I hope it gets better soon. I really miss her. Life isn't the same without her.	p001_emo_sadness_sentences_1.wav	4.6	0.0
+/dataset/EARS_final/VVs/p001_emo_serenity_sentences_0.wav	This has been the most peaceful day of my life. I am very calm right now.	p001_emo_serenity_sentences_1.wav	3.1	0.0
+/dataset/EARS_final/VVs/p002_emo_adoration_sentences_0.wav	You're just the sweetest person I know and I'm so happy to call you my friend. I had the best time with you.	p002_emo_adoration_sentences_1.wav	3.7	0.0
+/dataset/EARS_final/VVs/p002_emo_amusement_sentences_0.wav	The sound that baby made was just quite amusing. I liked that stand-up comic. I found her pretty funny.	p002_emo_amusement_sentences_1.wav	2.4	0.0
+/dataset/EARS_final/VVs/p002_emo_anger_sentences_0.wav	I'm so mad right now I could punch a hole in the wall. I can't believe he said that. He's such a jerk.	p002_emo_anger_sentences_1.wav	2.8	0.0
+/dataset/EARS_final/VVs/p002_emo_confusion_sentences_0.wav	Huh. What is going on over here? What is this?	p002_emo_confusion_sentences_1.wav	2.3	0.0
+/dataset/EARS_final/VVs/p002_emo_contentment_sentences_0.wav	I really enjoyed dinner tonight. It was quite nice. Everything is working out just fine.	p002_emo_contentment_sentences_1.wav	2.6	0.0
+/dataset/EARS_final/VVs/p002_emo_cuteness_sentences_0.wav	Look at that cute little kitty cat. Oh my goodness, she's so cute.	p002_emo_cuteness_sentences_1.wav	3.5	0.0
+/dataset/EARS_final/VVs/p002_emo_desire_sentences_0.wav	Mmm, that chocolate fudge lava cake looks divine. I want that car so badly.	p002_emo_desire_sentences_1.wav	3.2	0.0
+/dataset/EARS_final/VVs/p002_emo_disappointment_sentences_0.wav	I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you.	p002_emo_disappointment_sentences_1.wav	3.7	0.0
+/dataset/EARS_final/VVs/p002_emo_disgust_sentences_0.wav	Okay, I've never seen anything grosser than this in my entire life. This is the worst dinner I've ever had.	p002_emo_disgust_sentences_1.wav	4.7	0.0
+/dataset/EARS_final/VVs/p002_emo_distress_sentences_0.wav	Oh God, I am not sure if we are going to make this flight on time. This is all too stressful to handle right now.	p002_emo_distress_sentences_1.wav	3.7	0.0
+/dataset/EARS_final/VVs/p002_emo_embarassment_sentences_0.wav	I don't know what happened. I followed the recipe perfectly, but the cake just deflated. I'm so embarrassed. I hope no one saw that. I'd be so mortified if they did.	p002_emo_embarassment_sentences_1.wav	4.7	0.0
+/dataset/EARS_final/VVs/p002_emo_extasy_sentences_0.wav	This is the most exciting thing I've ever seen in my life. I can't believe I got to see that.	p002_emo_extasy_sentences_1.wav	3.3	0.0
+/dataset/EARS_final/VVs/p002_emo_fear_sentences_0.wav	Did you hear that sound? I'm afraid someone or something is outside.	p002_emo_fear_sentences_1.wav	1.4	0.0
+/dataset/EARS_final/VVs/p002_emo_interest_sentences_0.wav	Hmm, I wonder what that cookie tastes like. Oh, what was that over there?	p002_emo_interest_sentences_1.wav	2.9	0.0
+/dataset/EARS_final/VVs/p002_emo_neutral_sentences_0.wav	That wall in the living room was white. There is one more piece of bread in the pantry.	p002_emo_neutral_sentences_1.wav	2.3	0.0
+/dataset/EARS_final/VVs/p002_emo_pain_sentences_0.wav	This headache is the worst I've ever had. My foot hurts so badly right now.	p002_emo_pain_sentences_1.wav	3.4	0.0
+/dataset/EARS_final/VVs/p002_emo_pride_sentences_0.wav	That was all me. I'm the one who found the project, created the company, and made it succeed. I have worked hard to get here, and I deserve it.	p002_emo_pride_sentences_1.wav	4.5	0.0
+/dataset/EARS_final/VVs/p002_emo_realization_sentences_0.wav	Wow, I never knew that the body was made up of 75% water. Did you know that the flamingo is actually white but turns pink because it eats so much shrimp?	p002_emo_realization_sentences_1.wav	3.6	0.0
+/dataset/EARS_final/VVs/p002_emo_relief_sentences_0.wav	I'm so relieved my taxes are done. That was so stressful. I'm so relieved that's over with.	p002_emo_relief_sentences_1.wav	3.3	0.0
+/dataset/EARS_final/VVs/p002_emo_sadness_sentences_0.wav	I am so upset by the state of the world. I hope it gets better soon. I really miss her. Life isn't the same without her.	p002_emo_sadness_sentences_1.wav	5.0	0.0
+/dataset/EARS_final/VVs/p002_emo_serenity_sentences_0.wav	This has been the most peaceful day of my life. I am very calm right now.	p002_emo_serenity_sentences_1.wav	2.8	0.0
+/dataset/EARS_final/VVs/p003_emo_adoration_sentences_0.wav	You're just the sweetest person I know, and I am so happy to call you my friend. I had the best time with you. I just adore you.	p003_emo_adoration_sentences_1.wav	5.2	0.0
+/dataset/EARS_final/VVs/p003_emo_amazement_sentences_0.wav	I just love how you can play guitar. You're so impressive.	p003_emo_amazement_sentences_1.wav	2.5	0.0
+/dataset/EARS_final/VVs/p003_emo_amusement_sentences_0.wav	The sound that baby just made was quite amusing. I liked that stand-up comic. I found her pretty funny.	p003_emo_amusement_sentences_1.wav	3.3	0.0
+/dataset/EARS_final/VVs/p003_emo_anger_sentences_0.wav	I'm so mad right now I could punch a hole in the wall. I can't believe he said that. He's such a jerk.	p003_emo_anger_sentences_1.wav	5.3	0.0
+/dataset/EARS_final/VVs/p003_emo_contentment_sentences_0.wav	I really enjoyed dinner tonight. It was quite nice. Everything is working out just fine.	p003_emo_contentment_sentences_1.wav	3.5	0.0
+/dataset/EARS_final/VVs/p003_emo_desire_sentences_0.wav	Mmm, that chocolate fudge lava cake looks divine. I want that car so badly.	p003_emo_desire_sentences_1.wav	5.1	0.0
+/dataset/EARS_final/VVs/p003_emo_disappointment_sentences_0.wav	I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you.	p003_emo_disappointment_sentences_1.wav	4.6	0.0
+/dataset/EARS_final/VVs/p003_emo_disgust_sentences_0.wav	I've never seen anything grosser than this in my entire life. This is the worst dinner I've ever had.	p003_emo_disgust_sentences_1.wav	4.0	0.0
+/dataset/EARS_final/VVs/p003_emo_distress_sentences_0.wav	Oh, God. I am not sure if we're going to make this fight on time.	p003_emo_distress_sentences_1.wav	1.3	0.0
+/dataset/EARS_final/VVs/p003_emo_embarassment_sentences_0.wav	I don't know what happened. I followed the recipe perfectly, but the cake just deflated. I'm so embarrassed. I hope no one saw that. I'd be so mortified if they did.	p003_emo_embarassment_sentences_1.wav	7.0	0.0
+/dataset/EARS_final/VVs/p003_emo_extasy_sentences_0.wav	This is the most exciting thing I've ever seen in my life! I can't believe I get to see that!	p003_emo_extasy_sentences_1.wav	4.2	0.0
+/dataset/EARS_final/VVs/p003_emo_fear_sentences_0.wav	Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that?	p003_emo_fear_sentences_1.wav	6.6	0.0
+/dataset/EARS_final/VVs/p003_emo_interest_sentences_0.wav	Hmm, I wonder what that cookie tastes like. Ooh, what is that over there?	p003_emo_interest_sentences_1.wav	5.0	0.0
+/dataset/EARS_final/VVs/p003_emo_neutral_sentences_0.wav	That wall in the living room is white. There is one more piece of bread in the pantry.	p003_emo_neutral_sentences_1.wav	2.5	0.0
+/dataset/EARS_final/VVs/p003_emo_pain_sentences_0.wav	Ugh, this headache is the worst one I've ever had. My foot hurts so badly right now.	p003_emo_pain_sentences_1.wav	4.9	0.0
+/dataset/EARS_final/VVs/p003_emo_pride_sentences_0.wav	That was all me. I'm the one who found the project, created the company, and made it succeed. I have worked hard to get here, and I deserve it.	p003_emo_pride_sentences_1.wav	7.1	0.0
+/dataset/EARS_final/VVs/p003_emo_realization_sentences_0.wav	Wow, I never knew that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats so much shrimp?	p003_emo_realization_sentences_1.wav	5.6	0.0
+/dataset/EARS_final/VVs/p003_emo_relief_sentences_0.wav	I'm so relieved my taxes are done. That was so stressful. I'm so relieved that is over with. Thank goodness that's all done.	p003_emo_relief_sentences_1.wav	5.5	0.0
+/dataset/EARS_final/VVs/p003_emo_sadness_sentences_0.wav	I am so upset by the state of the world. I hope it gets better soon.	p003_emo_sadness_sentences_1.wav	3.6	0.0
+/dataset/EARS_final/VVs/p003_emo_serenity_sentences_0.wav	This has been the most peaceful day of my life. I am very calm right now.	p003_emo_serenity_sentences_1.wav	4.0	0.0
+/dataset/EARS_final/VVs/p004_emo_adoration_sentences_0.wav	You're just the sweetest person I know and I'm so happy to call you my friend. I had the best time with you.	p004_emo_adoration_sentences_1.wav	5.2	0.0
+/dataset/EARS_final/VVs/p004_emo_amazement_sentences_0.wav	I just love how you can play guitar. You're so impressive.	p004_emo_amazement_sentences_1.wav	2.5	0.0
+/dataset/EARS_final/VVs/p004_emo_amusement_sentences_0.wav	The sound that baby just made was quite amusing. I like that stand-up comic. I found her pretty funny.	p004_emo_amusement_sentences_1.wav	3.5	0.0
+/dataset/EARS_final/VVs/p004_emo_anger_sentences_0.wav	I'm so mad right now. I could punch a hole in the wall. I can't believe he said that. He's such a jerk.	p004_emo_anger_sentences_1.wav	5.0	0.0
+/dataset/EARS_final/VVs/p004_emo_contentment_sentences_0.wav	I really enjoyed dinner tonight. It was quite nice. Everything's working out just fine.	p004_emo_contentment_sentences_1.wav	3.1	0.0
+/dataset/EARS_final/VVs/p004_emo_cuteness_sentences_0.wav	Look at that cute little kitty cat. Oh my goodness, she's so cute.	p004_emo_cuteness_sentences_1.wav	2.2	0.0
+/dataset/EARS_final/VVs/p004_emo_desire_sentences_0.wav	Mmm, that chocolate fudge lava cake looks divine. I want that car so badly.	p004_emo_desire_sentences_1.wav	7.4	0.0
+/dataset/EARS_final/VVs/p004_emo_disappointment_sentences_0.wav	I'm so disappointed in myself. I wish I had worked harder. I had such higher expectations for you.	p004_emo_disappointment_sentences_1.wav	3.4	0.0
+/dataset/EARS_final/VVs/p004_emo_disgust_sentences_0.wav	I've never seen anything grosser than this in my entire life. This is the worst dinner I've ever had.	p004_emo_disgust_sentences_1.wav	4.1	0.0
+/dataset/EARS_final/VVs/p004_emo_distress_sentences_0.wav	Oh god, I'm not sure if we're gonna make this flight on time. This is all too stressful to handle right now.	p004_emo_distress_sentences_1.wav	4.6	0.0
+/dataset/EARS_final/VVs/p004_emo_embarassment_sentences_0.wav	I don't know what happened. I followed the recipe perfectly, but the cake just deflated. I'm so embarrassed. I hope no one saw that. I'd be mortified if they did.	p004_emo_embarassment_sentences_1.wav	6.2	0.0
+/dataset/EARS_final/VVs/p004_emo_extasy_sentences_0.wav	That is the most exciting thing I've ever seen in my life! I can't believe I got to see that.	p004_emo_extasy_sentences_1.wav	3.6	0.0
+/dataset/EARS_final/VVs/p004_emo_fear_sentences_0.wav	Did you hear that sound? I'm afraid someone or something is outside. Oh my gosh, what is that?	p004_emo_fear_sentences_1.wav	3.8	0.0
+/dataset/EARS_final/VVs/p004_emo_interest_sentences_0.wav	Hmm, I wonder what that cookie tastes like. Ooh, what is that over there?	p004_emo_interest_sentences_1.wav	2.9	0.0
+/dataset/EARS_final/VVs/p004_emo_neutral_sentences_0.wav	That wall in the living room is white. There is one more piece of bread in the pantry.	p004_emo_neutral_sentences_1.wav	2.6	0.0
+/dataset/EARS_final/VVs/p004_emo_pain_sentences_0.wav	Ow, this headache is the worst one I've ever had. My foot hurts so badly right now.	p004_emo_pain_sentences_1.wav	3.1	0.0
+/dataset/EARS_final/VVs/p004_emo_pride_sentences_0.wav	That was all me. I'm the one who found the project, created the company, and made it succeed. I have worked hard to get here, and I deserve it.	p004_emo_pride_sentences_1.wav	6.0	0.0
+/dataset/EARS_final/VVs/p004_emo_realization_sentences_0.wav	Wow, I never knew that the body was made up of 75% water. Did you know that a flamingo is actually white but turns pink because it eats so much shrimp?	p004_emo_realization_sentences_1.wav	5.7	0.0
+/dataset/EARS_final/VVs/p004_emo_relief_sentences_0.wav	I'm so relieved my taxes are done. That was so stressful.	p004_emo_relief_sentences_1.wav	2.6	0.0
+/dataset/EARS_final/VVs/p004_emo_sadness_sentences_0.wav	I'm so upset by the state of the world. I hope it gets better soon. I really miss her. Life isn't the same without her.	p004_emo_sadness_sentences_1.wav	4.7	0.0
+/dataset/EARS_final/VVs/p004_emo_serenity_sentences_0.wav	This has been the most peaceful day of my life. I am very calm right now.	p004_emo_serenity_sentences_1.wav	2.9	0.0
+/dataset/EARS_final/VVs/p001_emo_adoration_sentences_2.wav	I just adore you. I love this gift.	p001_emo_adoration_sentences_3.wav	2.2	0.0
+/dataset/EARS_final/VVs/p001_emo_disappointment_sentences_2.wav	I had such higher expectations for you. I really was hoping you were better than this.	p001_emo_disappointment_sentences_3.wav	2.4	0.0
+/dataset/EARS_final/VVs/p001_emo_disgust_sentences_2.wav	Yuck! I can't even look at that.	p001_emo_disgust_sentences_3.wav	1.0	0.0
+/dataset/EARS_final/VVs/p001_emo_realization_sentences_2.wav	but turns pink because it eats so much shrimp? Apparently, dolphins sleep with one eye open.	p001_emo_realization_sentences_3.wav	2.4	0.0
+/dataset/EARS_final/VVs/p002_emo_adoration_sentences_2.wav	I just adore you. I love this gift.	p002_emo_adoration_sentences_3.wav	1.9	0.0
+/dataset/EARS_final/VVs/p002_emo_fear_sentences_2.wav	Oh my gosh, what is that? What do you think is going to happen if we don't run?	p002_emo_fear_sentences_3.wav	1.3	0.0
+/dataset/EARS_final/VVs/p003_emo_distress_sentences_2.wav	This is all too stressful to handle right now. I don't know where anything is, and I'm running late.	p003_emo_distress_sentences_3.wav	3.8	0.0
+/dataset/EARS_final/VVs/p003_emo_sadness_sentences_2.wav	I really miss her. Life isn't the same without her.	p003_emo_sadness_sentences_3.wav	1.5	0.0
+/dataset/EARS_final/VVs/p004_emo_adoration_sentences_2.wav	I just adore you. I love this gift.	p004_emo_adoration_sentences_3.wav	2.1	0.0
+/dataset/EARS_final/VVs/p004_emo_relief_sentences_2.wav	I'm so relieved that it's over with. Thank goodness that's all done.	p004_emo_relief_sentences_3.wav	2.6	0.0
+/dataset/EARS_final/VVs/p001_emo_adoration_sentences_3.wav	I love this gift. Thank you.	p001_emo_adoration_sentences_4.wav	1.0	0.0
+/dataset/EARS_final/VVs/p002_emo_adoration_sentences_3.wav	I love this gift. Thank you.	p002_emo_adoration_sentences_4.wav	1.0	0.0
+/dataset/EARS_final/VVs/p003_emo_sadness_sentences_3.wav	Life isn't the same without her. I'm sorry for your loss.	p003_emo_sadness_sentences_4.wav	1.5	0.0
+/dataset/EARS_final/VVs/p004_emo_adoration_sentences_3.wav	I love this gift. Thank you.	p004_emo_adoration_sentences_4.wav	1.0	0.0
+/dataset/EARS_final/VVs/p001_emo_adoration_freeform_1.wav	When I'm with you, I feel so much warmer and better and safer. You are really the sunlight of my day.	p001_emo_adoration_freeform_0.wav	4.1	0.0
+/dataset/EARS_final/VVs/p001_emo_amazement_freeform_1.wav	Your voice is so beautiful. And you said you wrote this song all by yourself. Wow, I love how you play guitar. This is incredible.	p001_emo_amazement_freeform_0.wav	3.8	0.0
+/dataset/EARS_final/VVs/p001_emo_amusement_freeform_1.wav	all over his face like all over his face like the cheeks the forehead the nose everything like so there's like the small daughter and her dad is like falling asleep and she's like painting	p001_emo_amusement_freeform_0.wav	7.0	0.0
+/dataset/EARS_final/VVs/p001_emo_anger_freeform_1.wav	Like, there are potholes in the road, the drivers are like super close, and you just like make it more dangerous already. Come on, man! Don't cut me off in traffic! This is fucking dangerous!	p001_emo_anger_freeform_0.wav	6.2	0.0
+/dataset/EARS_final/VVs/p001_emo_contentment_freeform_1.wav	letting thoughts flow and not worrying about anything and just, you know, Ah, finally some time to relax. This is actually the best feeling, just sitting on the couch,	p001_emo_contentment_freeform_0.wav	5.1	0.0
+/dataset/EARS_final/VVs/p001_emo_cuteness_freeform_1.wav	There's like this fluffy dog with the curly hair and the baby who's like Oh, this is the cutest picture ever.	p001_emo_cuteness_freeform_0.wav	4.2	0.0
+/dataset/EARS_final/VVs/p001_emo_desire_freeform_1.wav	I just wanna, I just wanna dive in and eat it all at once and really feel this expe- Mmm, these three muffins look amazing and mmm, I like this lemon flavor of the cream.	p001_emo_desire_freeform_0.wav	6.4	0.0
+/dataset/EARS_final/VVs/p001_emo_disappointment_freeform_1.wav	Like, I actually thought I could get it and I thought the interview was going really well. I really wanted that job. This is like, this is very disappointing for real.	p001_emo_disappointment_freeform_0.wav	4.8	0.0
+/dataset/EARS_final/VVs/p001_emo_disgust_freeform_1.wav	This is, oh, it's spilling out like vomit. It looks ugly. It looks crazy disgusting. I really do not like- Oh, this is disgusting. Who would even bake this? Like a donut with like beans in it.	p001_emo_disgust_freeform_0.wav	6.6	0.0
+/dataset/EARS_final/VVs/p001_emo_distress_freeform_1.wav	This is way too much for me. just leave me alone for a second.	p001_emo_distress_freeform_0.wav	1.6	0.0
+/dataset/EARS_final/VVs/p001_emo_embarassment_freeform_1.wav	I hate it when your parents come to school. I mean now I'm the loser who is like, ah Oh my god. Mmm. This is so embarrassing. I forgot my lunch and my mom had to bring it to school	p001_emo_embarassment_freeform_0.wav	5.1	0.0
+/dataset/EARS_final/VVs/p001_emo_extasy_freeform_1.wav	i can i can buy whatever i want i can go on this on this like world trip and just like whoo haha i just won the lottery i can't believe it i'm crazy rich i i don't have to work anymore	p001_emo_extasy_freeform_0.wav	5.0	0.0
+/dataset/EARS_final/VVs/p001_emo_fear_freeform_1.wav	I just see the shadows and I don't know what it is and what to do. Oh my god, there is like some weird creature outside the house.	p001_emo_fear_freeform_0.wav	6.0	0.0
+/dataset/EARS_final/VVs/p001_emo_guilt_freeform_1.wav	but I was so lonely all day and I didn't know what to do and I was freaking out. I am so sorry. I really know that you like your toilet paper intact and not screwed up,	p001_emo_guilt_freeform_0.wav	5.1	0.0
+/dataset/EARS_final/VVs/p001_emo_interest_freeform_1.wav	It's like a kind of physics book, but for like popular things. So there was actually this really interesting book that I read the other day.	p001_emo_interest_freeform_0.wav	4.3	0.0
+/dataset/EARS_final/VVs/p001_emo_neutral_freeform_1.wav	I have an electric toothbrush and then like just brush until it buzzes and then spit out the toothpaste and get ready for bed. Okay, before I go to bed, I usually brush my teeth, you know, toothpaste on the toothbrush.	p001_emo_neutral_freeform_0.wav	7.8	0.0
+/dataset/EARS_final/VVs/p001_emo_pain_freeform_1.wav	Oh, bumped my toe. Ah, damn it!	p001_emo_pain_freeform_0.wav	2.0	0.0
+/dataset/EARS_final/VVs/p001_emo_pride_freeform_1.wav	I'm really proud of you. you made it into the basketball team.	p001_emo_pride_freeform_0.wav	2.0	0.0
+/dataset/EARS_final/VVs/p001_emo_realization_freeform_1.wav	But no sweat. Isn't that crazy surprising? So pigs don't sweat, which is something I never expected because they are mammals and so close to humans.	p001_emo_realization_freeform_0.wav	2.4	0.0
+/dataset/EARS_final/VVs/p001_emo_relief_freeform_1.wav	that was that was a lucky shot i really thought i'd have to pay the fine this time but whew that was a close call i almost got that ticket but man i could talk my way out of this	p001_emo_relief_freeform_0.wav	4.2	0.0
+/dataset/EARS_final/VVs/p001_emo_sadness_freeform_1.wav	He's like in a cage all alone and he has like this big doggy eyes and it's like pulled down eyebrows Oh, this is like a dog who is so sad that he doesn't seem to have an owner	p001_emo_sadness_freeform_0.wav	5.6	0.0
+/dataset/EARS_final/VVs/p001_emo_serenity_freeform_1.wav	I just see this beautiful sunset, a mild breeze of wind, and the trees, Ah, this is so beautiful. Nothing around me, no cars for like the first time in weeks.	p001_emo_serenity_freeform_0.wav	5.9	0.0
+/dataset/EARS_final/VVs/p002_emo_adoration_freeform_1.wav	What would we ever do without one another? Oh, I'm so glad I found you.	p002_emo_adoration_freeform_0.wav	2.1	0.0
+/dataset/EARS_final/VVs/p002_emo_amazement_freeform_1.wav	I can't believe I did that myself. Oh my gosh, I can't believe it. Are you serious?	p002_emo_amazement_freeform_0.wav	2.2	0.0
+/dataset/EARS_final/VVs/p002_emo_amusement_freeform_1.wav	coloring on his face. oh my gosh,	p002_emo_amusement_freeform_0.wav	1.3	0.0
+/dataset/EARS_final/VVs/p002_emo_anger_freeform_1.wav	Right lane slow, left lane fast. Oh my gosh, come on, buddy. Move it.	p002_emo_anger_freeform_0.wav	2.1	0.0
+/dataset/EARS_final/VVs/p002_emo_confusion_freeform_1.wav	anybody listening to her. Is she giving a speech or I don't know, maybe she's practicing something what is she doing? She's on a platform, a microphone. It doesn't look like there's	p002_emo_confusion_freeform_0.wav	6.4	0.0
+/dataset/EARS_final/VVs/p002_emo_contentment_freeform_1.wav	Maybe zone off for a little bit, take a little 10 minute nap. I'm just gonna lay here and relax.	p002_emo_contentment_freeform_0.wav	4.0	0.0
+/dataset/EARS_final/VVs/p002_emo_desire_freeform_1.wav	To pick one or to eat all three? Oh my gosh, temptation at its best.	p002_emo_desire_freeform_0.wav	2.0	0.0
+/dataset/EARS_final/VVs/p002_emo_disgust_freeform_1.wav	Is it rotten? Oh my gosh, that looks like worms come out of a donut.	p002_emo_disgust_freeform_0.wav	1.0	0.0
+/dataset/EARS_final/VVs/p002_emo_distress_freeform_1.wav	if one more person comes up and talks to me, period, I'm going to flip out. Oh my gosh, if one more person comes up to me and complains,	p002_emo_distress_freeform_0.wav	3.6	0.0
+/dataset/EARS_final/VVs/p002_emo_embarassment_freeform_1.wav	Oh guys, don't look at me. I want to get home. Oh my gosh, I'm so sorry. I can't believe I did that.	p002_emo_embarassment_freeform_0.wav	3.1	0.0
+/dataset/EARS_final/VVs/p002_emo_extasy_freeform_1.wav	I don't know what I'm going to do with all this. Oh my gosh, I just won the lottery. I can't believe it. What are the chances? One in a million?	p002_emo_extasy_freeform_0.wav	2.2	0.0
+/dataset/EARS_final/VVs/p002_emo_fear_freeform_1.wav	Oh my gosh, I'm afraid to move. Oh my gosh, what was that noise?	p002_emo_fear_freeform_0.wav	1.7	0.0
+/dataset/EARS_final/VVs/p002_emo_guilt_freeform_1.wav	What did you do? Oh my gosh, I can't believe he did that.	p002_emo_guilt_freeform_0.wav	1.5	0.0
+/dataset/EARS_final/VVs/p002_emo_interest_freeform_1.wav	that and see what maybe schools are around. There's so many to choose from. Hmm, this is a tough one. I love to bake so I think I'd like to get more info on	p002_emo_interest_freeform_0.wav	7.1	0.0
+/dataset/EARS_final/VVs/p002_emo_neutral_freeform_1.wav	I'll get on my phone for a little bit, then I will get sleepy and I'll fall right asleep It's time to lay down, go to bed.	p002_emo_neutral_freeform_0.wav	5.0	0.0
+/dataset/EARS_final/VVs/p002_emo_pain_freeform_1.wav	Oh my gosh, this is the worst pain ever. Oh my gosh, I can't believe I did that again.	p002_emo_pain_freeform_0.wav	1.9	0.0
+/dataset/EARS_final/VVs/p002_emo_pride_freeform_1.wav	Come all this way, played the game, and you won. I'm so proud of you, buddy.	p002_emo_pride_freeform_0.wav	2.1	0.0
+/dataset/EARS_final/VVs/p002_emo_realization_freeform_1.wav	Pigs don't sweat. Dolphins sleep with one eye open.	p002_emo_realization_freeform_0.wav	1.0	0.0
+/dataset/EARS_final/VVs/p002_emo_relief_freeform_1.wav	It's my own fault though. But he let me go. I'll never speed again. Phew, that was close. I knew it was coming sooner or later. I see cops everywhere.	p002_emo_relief_freeform_0.wav	7.8	0.0
+/dataset/EARS_final/VVs/p002_emo_sadness_freeform_1.wav	It should be against the law, but I mean this could be a kennel of some sort. Oh my gosh, I hate to see any kind of animal in a caged up area.	p002_emo_sadness_freeform_0.wav	6.0	0.0
+/dataset/EARS_final/VVs/p003_emo_adoration_freeform_1.wav	How did I get this lucky? Who knew a blind date would turn into love? Oh, I am so lucky. Look at my man. He is so handsome and sweet.	p003_emo_adoration_freeform_0.wav	5.5	0.0
+/dataset/EARS_final/VVs/p003_emo_amazement_freeform_1.wav	Wow, you just really know how to make me smile. Wow, you're so good at playing guitar. Do you think you could teach me sometime?	p003_emo_amazement_freeform_0.wav	5.0	0.0
+/dataset/EARS_final/VVs/p003_emo_amusement_freeform_1.wav	Not an unusual sight, but she chose makeup, so that'll be very smudgy for dad to deal with. Look at the little girl she's drawing on her dad's face.	p003_emo_amusement_freeform_0.wav	10.4	0.0
+/dataset/EARS_final/VVs/p003_emo_anger_freeform_1.wav	Ugh, I'm sick of driving every morning with these bozos. Oh, come on. How are you gonna cut me off? I know you see me here.	p003_emo_anger_freeform_0.wav	5.0	0.0
+/dataset/EARS_final/VVs/p003_emo_confusion_freeform_1.wav	I don't know why she's doing that at the beach. Uh, so there's a woman on the beach, and it looks like she's talking on a microphone.	p003_emo_confusion_freeform_0.wav	2.6	0.0
+/dataset/EARS_final/VVs/p003_emo_contentment_freeform_1.wav	think about a movie I want to watch, get some of my new snacks I picked up from Trader Joe's. Ah, feels good to be home from work. Now I can just kick my feet up, relax,	p003_emo_contentment_freeform_0.wav	7.9	0.0
+/dataset/EARS_final/VVs/p003_emo_cuteness_freeform_1.wav	And the dog's so fluffy and the baby has a cute little outfit on. Oh, look at the baby taking a nap with the dog.	p003_emo_cuteness_freeform_0.wav	6.0	0.0
+/dataset/EARS_final/VVs/p003_emo_desire_freeform_1.wav	they both look so good mmm yummy do which one should I get do I want strawberry icing or vanilla icing	p003_emo_desire_freeform_0.wav	3.0	0.0
+/dataset/EARS_final/VVs/p003_emo_disappointment_freeform_1.wav	I don't know what I'm going to do. How many more interviews will I have? Oh, mom, I got rejected again. I don't know. I felt really good going into this one.	p003_emo_disappointment_freeform_0.wav	7.0	0.0
+/dataset/EARS_final/VVs/p003_emo_disgust_freeform_1.wav	That is gross. Ew, look at that nasty donut with beans coming out of it.	p003_emo_disgust_freeform_0.wav	1.7	0.0
+/dataset/EARS_final/VVs/p003_emo_distress_freeform_1.wav	Everyone's getting on my nerves. Ugh, I can't believe I have to do this Monday to Friday, 9 to 5.	p003_emo_distress_freeform_0.wav	1.8	0.0
+/dataset/EARS_final/VVs/p003_emo_embarassment_freeform_1.wav	I can't believe that happened. Oh my god, they're making fun of me again.	p003_emo_embarassment_freeform_0.wav	2.2	0.0
+/dataset/EARS_final/VVs/p003_emo_extasy_freeform_1.wav	Ooh, I'm going to take everyone out to eat. Woohoo! I just won the lottery!	p003_emo_extasy_freeform_0.wav	2.3	0.0
+/dataset/EARS_final/VVs/p003_emo_fear_freeform_1.wav	Oh my god, I'm home alone. What was that sound?	p003_emo_fear_freeform_0.wav	2.7	0.0
+/dataset/EARS_final/VVs/p003_emo_guilt_freeform_1.wav	I'll try not to do it again. I'm sorry. Can you forgive me? Do you... What if... I'm sorry I ate all the toilet paper. I feel so bad. Do you have more toilet paper?	p003_emo_guilt_freeform_0.wav	9.3	0.0
+/dataset/EARS_final/VVs/p003_emo_interest_freeform_1.wav	When I travel to Europe, I always look at a building and think to myself, Hmm, I would really like to know more about architecture.	p003_emo_interest_freeform_0.wav	4.4	0.0
+/dataset/EARS_final/VVs/p003_emo_neutral_freeform_1.wav	I of course brush my teeth, sometimes floss, and I'll follow up with mouthwash. Well, I normally start by washing my face, doing some moisturizer and eye cream, chapstick.	p003_emo_neutral_freeform_0.wav	7.7	0.0
+/dataset/EARS_final/VVs/p003_emo_pain_freeform_1.wav	That really hurt. My toe.	p003_emo_pain_freeform_0.wav	1.5	0.0
+/dataset/EARS_final/VVs/p003_emo_pride_freeform_1.wav	I'm so proud you're following in my footsteps, Aw, you did a great job today, kiddo.	p003_emo_pride_freeform_0.wav	3.1	0.0
+/dataset/EARS_final/VVs/p003_emo_realization_freeform_1.wav	Are you sure about that? Wow, I did not know dolphins slept with one eye open.	p003_emo_realization_freeform_0.wav	1.5	0.0
+/dataset/EARS_final/VVs/p003_emo_relief_freeform_1.wav	Whew, I got really lucky today with that cop. Whew, I can't believe I got out of that traffic ticket.	p003_emo_relief_freeform_0.wav	3.2	0.0
+/dataset/EARS_final/VVs/p004_emo_amazement_freeform_1.wav	Good job, son. That's amazing. Oh my goodness, you got straight A's?	p004_emo_amazement_freeform_0.wav	2.0	0.0
+/dataset/EARS_final/VVs/p004_emo_amusement_freeform_1.wav	That's adorable. Look at the puppy so confused.	p004_emo_amusement_freeform_0.wav	1.4	0.0
+/dataset/EARS_final/VVs/p004_emo_anger_freeform_1.wav	You just blew right through it. What, did you not see the stop sign?	p004_emo_anger_freeform_0.wav	1.3	0.0
+/dataset/EARS_final/VVs/p004_emo_confusion_freeform_1.wav	That's impossible. Is that a flying carpet?	p004_emo_confusion_freeform_0.wav	1.9	0.0
+/dataset/EARS_final/VVs/p004_emo_contentment_freeform_1.wav	Everything's fine. This is the part of the day where you just lay back and relax.	p004_emo_contentment_freeform_0.wav	1.0	0.0
+/dataset/EARS_final/VVs/p004_emo_cuteness_freeform_1.wav	Aww, that looks fake. Oh my gosh, I can't be real. He's so cute. Oh, look at the little baby. He's so cute and cuddly with the puppy.	p004_emo_cuteness_freeform_0.wav	9.0	0.0
+/dataset/EARS_final/VVs/p004_emo_desire_freeform_1.wav	I want to dive into that, but I'm watching my weight right now. Oh, look at that scrumptious little cupcake.	p004_emo_desire_freeform_0.wav	4.2	0.0
+/dataset/EARS_final/VVs/p004_emo_disappointment_freeform_1.wav	Everything right here. It was just everything was coming together and they just for some reason they don't want me Oh my god, I just I worked my entire life. I went to college for this. I thought this was	p004_emo_disappointment_freeform_0.wav	5.9	0.0
+/dataset/EARS_final/VVs/p004_emo_disgust_freeform_1.wav	That looks like something out of a horror movie or a fever dream. Oh my goodness, that's disgusting.	p004_emo_disgust_freeform_0.wav	4.4	0.0
+/dataset/EARS_final/VVs/p004_emo_distress_freeform_1.wav	Oh my gosh, I need to stop procrastinating. I need to get this done, work on the next thing, and it'll all be over with. Oh my god, it's like the whole world's coming at me at once. Everything is coming down on me.	p004_emo_distress_freeform_0.wav	7.7	0.0
+/dataset/EARS_final/VVs/p004_emo_embarassment_freeform_1.wav	I'm the center of embarrassment. Oh, everybody's laughing at me and pointing at me.	p004_emo_embarassment_freeform_0.wav	1.7	0.0
+/dataset/EARS_final/VVs/p004_emo_extasy_freeform_1.wav	I'm going to buy my mom a car. Woohoo! I just won the lottery!	p004_emo_extasy_freeform_0.wav	1.7	0.0
+/dataset/EARS_final/VVs/p004_emo_guilt_freeform_1.wav	tore the socks out of the laundry. I'm sorry I got in the garbage and destroyed all of the papers and ate your homework and	p004_emo_guilt_freeform_0.wav	2.7	0.0
+/dataset/EARS_final/VVs/p004_emo_interest_freeform_1.wav	We need to reduce our emissions? I drive a diesel. What are we doing? Hmm, climate change? This is real? Oh my goodness, we need to do something about this.	p004_emo_interest_freeform_0.wav	5.9	0.0
+/dataset/EARS_final/VVs/p004_emo_pain_freeform_1.wav	Oh my gosh. That hurt. I just walked right into that door. I don't know who put that there.	p004_emo_pain_freeform_0.wav	2.8	0.0
+/dataset/EARS_final/VVs/p004_emo_realization_freeform_1.wav	Okay, that makes sense. Oh, pigs don't sweat.	p004_emo_realization_freeform_0.wav	2.1	0.0
+/dataset/EARS_final/VVs/p004_emo_relief_freeform_1.wav	little fine got off the leash on that one I really got to slow down that man whoo thank god that cop didn't show up to court that could have been a hefty	p004_emo_relief_freeform_0.wav	5.0	0.0
+/dataset/EARS_final/VVs/p004_emo_sadness_freeform_1.wav	He looks so sad. That puppy needs a home.	p004_emo_sadness_freeform_0.wav	1.6	0.0
+/dataset/EARS_final/VVs/p004_emo_serenity_freeform_1.wav	listen to the sounds of nature this is what life's about the peaceful moments sitting back taking it all in	p004_emo_serenity_freeform_0.wav	2.9	0.0
+/dataset/EARS_final/VVs/p001_emo_adoration_freeform_0.wav	You are really the sunlight of my day. When I'm with you, I feel so much warmer and better and safer.	p001_emo_adoration_freeform_1.wav	2.7	0.0
+/dataset/EARS_final/VVs/p001_emo_amazement_freeform_0.wav	Wow, I love how you play guitar. This is incredible. Your voice is so beautiful. And you said you wrote this song all by yourself.	p001_emo_amazement_freeform_1.wav	4.5	0.0
+/dataset/EARS_final/VVs/p001_emo_amusement_freeform_0.wav	so there's like the small daughter and her dad is like falling asleep and she's like painting all over his face like all over his face like the cheeks the forehead the nose everything like	p001_emo_amusement_freeform_1.wav	6.3	0.0
+/dataset/EARS_final/VVs/p001_emo_anger_freeform_0.wav	Come on, man! Don't cut me off in traffic! This is fucking dangerous! Like, there are potholes in the road, the drivers are like super close, and you just like make it more dangerous already.	p001_emo_anger_freeform_1.wav	4.2	0.0
+/dataset/EARS_final/VVs/p001_emo_contentment_freeform_0.wav	Ah, finally some time to relax. This is actually the best feeling, just sitting on the couch, letting thoughts flow and not worrying about anything and just, you know,	p001_emo_contentment_freeform_1.wav	5.2	0.0
+/dataset/EARS_final/VVs/p001_emo_cuteness_freeform_0.wav	Oh, this is the cutest picture ever. There's like this fluffy dog with the curly hair and the baby who's like	p001_emo_cuteness_freeform_1.wav	2.5	0.0
+/dataset/EARS_final/VVs/p001_emo_desire_freeform_0.wav	Mmm, these three muffins look amazing and mmm, I like this lemon flavor of the cream. I just wanna, I just wanna dive in and eat it all at once and really feel this expe-	p001_emo_desire_freeform_1.wav	9.1	0.0
+/dataset/EARS_final/VVs/p001_emo_disappointment_freeform_0.wav	I really wanted that job. This is like, this is very disappointing for real. Like, I actually thought I could get it and I thought the interview was going really well.	p001_emo_disappointment_freeform_1.wav	5.7	0.0
+/dataset/EARS_final/VVs/p001_emo_disgust_freeform_0.wav	Oh, this is disgusting. Who would even bake this? Like a donut with like beans in it. This is, oh, it's spilling out like vomit. It looks ugly. It looks crazy disgusting. I really do not like-	p001_emo_disgust_freeform_1.wav	7.7	0.0
+/dataset/EARS_final/VVs/p001_emo_distress_freeform_0.wav	just leave me alone for a second. This is way too much for me.	p001_emo_distress_freeform_1.wav	1.8	0.0
+/dataset/EARS_final/VVs/p001_emo_embarassment_freeform_0.wav	Oh my god. Mmm. This is so embarrassing. I forgot my lunch and my mom had to bring it to school I hate it when your parents come to school. I mean now I'm the loser who is like, ah	p001_emo_embarassment_freeform_1.wav	6.8	0.0
+/dataset/EARS_final/VVs/p001_emo_extasy_freeform_0.wav	whoo haha i just won the lottery i can't believe it i'm crazy rich i i don't have to work anymore i can i can buy whatever i want i can go on this on this like world trip and just like	p001_emo_extasy_freeform_1.wav	7.9	0.0
+/dataset/EARS_final/VVs/p001_emo_fear_freeform_0.wav	Oh my god, there is like some weird creature outside the house. I just see the shadows and I don't know what it is and what to do.	p001_emo_fear_freeform_1.wav	5.1	0.0
+/dataset/EARS_final/VVs/p001_emo_guilt_freeform_0.wav	I am so sorry. I really know that you like your toilet paper intact and not screwed up, but I was so lonely all day and I didn't know what to do and I was freaking out.	p001_emo_guilt_freeform_1.wav	9.9	0.0
+/dataset/EARS_final/VVs/p001_emo_interest_freeform_0.wav	So there was actually this really interesting book that I read the other day. It's like a kind of physics book, but for like popular things.	p001_emo_interest_freeform_1.wav	5.6	0.0
+/dataset/EARS_final/VVs/p001_emo_neutral_freeform_0.wav	Okay, before I go to bed, I usually brush my teeth, you know, toothpaste on the toothbrush. I have an electric toothbrush and then like just brush until it buzzes and then spit out the toothpaste and get ready for bed.	p001_emo_neutral_freeform_1.wav	5.4	0.0
+/dataset/EARS_final/VVs/p001_emo_pain_freeform_0.wav	Ah, damn it! Oh, bumped my toe.	p001_emo_pain_freeform_1.wav	3.0	0.0
+/dataset/EARS_final/VVs/p001_emo_pride_freeform_0.wav	you made it into the basketball team. I'm really proud of you.	p001_emo_pride_freeform_1.wav	2.2	0.0
+/dataset/EARS_final/VVs/p001_emo_realization_freeform_0.wav	So pigs don't sweat, which is something I never expected because they are mammals and so close to humans. But no sweat. Isn't that crazy surprising?	p001_emo_realization_freeform_1.wav	7.4	0.0
+/dataset/EARS_final/VVs/p001_emo_relief_freeform_0.wav	whew that was a close call i almost got that ticket but man i could talk my way out of this that was that was a lucky shot i really thought i'd have to pay the fine this time but	p001_emo_relief_freeform_1.wav	6.7	0.0
+/dataset/EARS_final/VVs/p001_emo_sadness_freeform_0.wav	Oh, this is like a dog who is so sad that he doesn't seem to have an owner He's like in a cage all alone and he has like this big doggy eyes and it's like pulled down eyebrows	p001_emo_sadness_freeform_1.wav	4.7	0.0
+/dataset/EARS_final/VVs/p001_emo_serenity_freeform_0.wav	Ah, this is so beautiful. Nothing around me, no cars for like the first time in weeks. I just see this beautiful sunset, a mild breeze of wind, and the trees,	p001_emo_serenity_freeform_1.wav	7.9	0.0
+/dataset/EARS_final/VVs/p002_emo_adoration_freeform_0.wav	Oh, I'm so glad I found you. What would we ever do without one another?	p002_emo_adoration_freeform_1.wav	2.4	0.0
+/dataset/EARS_final/VVs/p002_emo_amazement_freeform_0.wav	Oh my gosh, I can't believe it. Are you serious? I can't believe I did that myself.	p002_emo_amazement_freeform_1.wav	3.2	0.0
+/dataset/EARS_final/VVs/p002_emo_amusement_freeform_0.wav	oh my gosh, coloring on his face.	p002_emo_amusement_freeform_1.wav	1.5	0.0
+/dataset/EARS_final/VVs/p002_emo_anger_freeform_0.wav	Oh my gosh, come on, buddy. Move it. Right lane slow, left lane fast.	p002_emo_anger_freeform_1.wav	3.0	0.0
+/dataset/EARS_final/VVs/p002_emo_confusion_freeform_0.wav	what is she doing? She's on a platform, a microphone. It doesn't look like there's anybody listening to her. Is she giving a speech or I don't know, maybe she's practicing something	p002_emo_confusion_freeform_1.wav	5.8	0.0
+/dataset/EARS_final/VVs/p002_emo_contentment_freeform_0.wav	I'm just gonna lay here and relax. Maybe zone off for a little bit, take a little 10 minute nap.	p002_emo_contentment_freeform_1.wav	4.4	0.0
+/dataset/EARS_final/VVs/p002_emo_desire_freeform_0.wav	Oh my gosh, temptation at its best. To pick one or to eat all three?	p002_emo_desire_freeform_1.wav	3.1	0.0
+/dataset/EARS_final/VVs/p002_emo_disgust_freeform_0.wav	Oh my gosh, that looks like worms come out of a donut. Is it rotten?	p002_emo_disgust_freeform_1.wav	4.2	0.0
+/dataset/EARS_final/VVs/p002_emo_distress_freeform_0.wav	Oh my gosh, if one more person comes up to me and complains, if one more person comes up and talks to me, period, I'm going to flip out.	p002_emo_distress_freeform_1.wav	3.7	0.0
+/dataset/EARS_final/VVs/p002_emo_embarassment_freeform_0.wav	Oh my gosh, I'm so sorry. I can't believe I did that. Oh guys, don't look at me. I want to get home.	p002_emo_embarassment_freeform_1.wav	3.4	0.0
+/dataset/EARS_final/VVs/p002_emo_extasy_freeform_0.wav	Oh my gosh, I just won the lottery. I can't believe it. What are the chances? One in a million? I don't know what I'm going to do with all this.	p002_emo_extasy_freeform_1.wav	6.1	0.0
+/dataset/EARS_final/VVs/p002_emo_fear_freeform_0.wav	Oh my gosh, what was that noise? Oh my gosh, I'm afraid to move.	p002_emo_fear_freeform_1.wav	1.6	0.0
+/dataset/EARS_final/VVs/p002_emo_guilt_freeform_0.wav	Oh my gosh, I can't believe he did that. What did you do?	p002_emo_guilt_freeform_1.wav	3.3	0.0
+/dataset/EARS_final/VVs/p002_emo_interest_freeform_0.wav	Hmm, this is a tough one. I love to bake so I think I'd like to get more info on that and see what maybe schools are around. There's so many to choose from.	p002_emo_interest_freeform_1.wav	9.3	0.0
+/dataset/EARS_final/VVs/p002_emo_neutral_freeform_0.wav	It's time to lay down, go to bed. I'll get on my phone for a little bit, then I will get sleepy and I'll fall right asleep	p002_emo_neutral_freeform_1.wav	3.0	0.0
+/dataset/EARS_final/VVs/p002_emo_pain_freeform_0.wav	Oh my gosh, I can't believe I did that again. Oh my gosh, this is the worst pain ever.	p002_emo_pain_freeform_1.wav	2.6	0.0
+/dataset/EARS_final/VVs/p002_emo_pride_freeform_0.wav	I'm so proud of you, buddy. Come all this way, played the game, and you won.	p002_emo_pride_freeform_1.wav	1.6	0.0
+/dataset/EARS_final/VVs/p002_emo_realization_freeform_0.wav	Dolphins sleep with one eye open. Pigs don't sweat.	p002_emo_realization_freeform_1.wav	1.9	0.0
+/dataset/EARS_final/VVs/p002_emo_relief_freeform_0.wav	Phew, that was close. I knew it was coming sooner or later. I see cops everywhere. It's my own fault though. But he let me go. I'll never speed again.	p002_emo_relief_freeform_1.wav	7.2	0.0
+/dataset/EARS_final/VVs/p002_emo_sadness_freeform_0.wav	Oh my gosh, I hate to see any kind of animal in a caged up area. It should be against the law, but I mean this could be a kennel of some sort.	p002_emo_sadness_freeform_1.wav	4.7	0.0
+/dataset/EARS_final/VVs/p003_emo_adoration_freeform_0.wav	Oh, I am so lucky. Look at my man. He is so handsome and sweet. How did I get this lucky? Who knew a blind date would turn into love?	p003_emo_adoration_freeform_1.wav	8.2	0.0
+/dataset/EARS_final/VVs/p003_emo_amazement_freeform_0.wav	Wow, you're so good at playing guitar. Do you think you could teach me sometime? Wow, you just really know how to make me smile.	p003_emo_amazement_freeform_1.wav	7.0	0.0
+/dataset/EARS_final/VVs/p003_emo_amusement_freeform_0.wav	Look at the little girl she's drawing on her dad's face. Not an unusual sight, but she chose makeup, so that'll be very smudgy for dad to deal with.	p003_emo_amusement_freeform_1.wav	5.7	0.0
+/dataset/EARS_final/VVs/p003_emo_anger_freeform_0.wav	Oh, come on. How are you gonna cut me off? I know you see me here. Ugh, I'm sick of driving every morning with these bozos.	p003_emo_anger_freeform_1.wav	5.7	0.0
+/dataset/EARS_final/VVs/p003_emo_confusion_freeform_0.wav	Uh, so there's a woman on the beach, and it looks like she's talking on a microphone. I don't know why she's doing that at the beach.	p003_emo_confusion_freeform_1.wav	11.1	0.0
+/dataset/EARS_final/VVs/p003_emo_contentment_freeform_0.wav	Ah, feels good to be home from work. Now I can just kick my feet up, relax, think about a movie I want to watch, get some of my new snacks I picked up from Trader Joe's.	p003_emo_contentment_freeform_1.wav	8.4	0.0
+/dataset/EARS_final/VVs/p003_emo_cuteness_freeform_0.wav	Oh, look at the baby taking a nap with the dog. And the dog's so fluffy and the baby has a cute little outfit on.	p003_emo_cuteness_freeform_1.wav	6.0	0.0
+/dataset/EARS_final/VVs/p003_emo_desire_freeform_0.wav	mmm yummy do which one should I get do I want strawberry icing or vanilla icing they both look so good	p003_emo_desire_freeform_1.wav	10.6	0.0
+/dataset/EARS_final/VVs/p003_emo_disappointment_freeform_0.wav	Oh, mom, I got rejected again. I don't know. I felt really good going into this one. I don't know what I'm going to do. How many more interviews will I have?	p003_emo_disappointment_freeform_1.wav	8.7	0.0
+/dataset/EARS_final/VVs/p003_emo_disgust_freeform_0.wav	Ew, look at that nasty donut with beans coming out of it. That is gross.	p003_emo_disgust_freeform_1.wav	6.3	0.0
+/dataset/EARS_final/VVs/p003_emo_distress_freeform_0.wav	Ugh, I can't believe I have to do this Monday to Friday, 9 to 5. Everyone's getting on my nerves.	p003_emo_distress_freeform_1.wav	5.4	0.0
+/dataset/EARS_final/VVs/p003_emo_embarassment_freeform_0.wav	Oh my god, they're making fun of me again. I can't believe that happened.	p003_emo_embarassment_freeform_1.wav	4.0	0.0
+/dataset/EARS_final/VVs/p003_emo_extasy_freeform_0.wav	Woohoo! I just won the lottery! Ooh, I'm going to take everyone out to eat.	p003_emo_extasy_freeform_1.wav	3.0	0.0
+/dataset/EARS_final/VVs/p003_emo_fear_freeform_0.wav	What was that sound? Oh my god, I'm home alone.	p003_emo_fear_freeform_1.wav	3.0	0.0
+/dataset/EARS_final/VVs/p003_emo_guilt_freeform_0.wav	I'm sorry I ate all the toilet paper. I feel so bad. Do you have more toilet paper? I'll try not to do it again. I'm sorry. Can you forgive me? Do you... What if...	p003_emo_guilt_freeform_1.wav	11.4	0.0
+/dataset/EARS_final/VVs/p003_emo_interest_freeform_0.wav	Hmm, I would really like to know more about architecture. When I travel to Europe, I always look at a building and think to myself,	p003_emo_interest_freeform_1.wav	6.6	0.0
+/dataset/EARS_final/VVs/p003_emo_neutral_freeform_0.wav	Well, I normally start by washing my face, doing some moisturizer and eye cream, chapstick. I of course brush my teeth, sometimes floss, and I'll follow up with mouthwash.	p003_emo_neutral_freeform_1.wav	8.5	0.0
+/dataset/EARS_final/VVs/p003_emo_pain_freeform_0.wav	My toe. That really hurt.	p003_emo_pain_freeform_1.wav	1.2	0.0
+/dataset/EARS_final/VVs/p003_emo_pride_freeform_0.wav	Aw, you did a great job today, kiddo. I'm so proud you're following in my footsteps,	p003_emo_pride_freeform_1.wav	3.0	0.0
+/dataset/EARS_final/VVs/p003_emo_realization_freeform_0.wav	Wow, I did not know dolphins slept with one eye open. Are you sure about that?	p003_emo_realization_freeform_1.wav	6.4	0.0
+/dataset/EARS_final/VVs/p003_emo_relief_freeform_0.wav	Whew, I can't believe I got out of that traffic ticket. Whew, I got really lucky today with that cop.	p003_emo_relief_freeform_1.wav	4.1	0.0
+/dataset/EARS_final/VVs/p004_emo_amazement_freeform_0.wav	Oh my goodness, you got straight A's? Good job, son. That's amazing.	p004_emo_amazement_freeform_1.wav	3.5	0.0
+/dataset/EARS_final/VVs/p004_emo_amusement_freeform_0.wav	Look at the puppy so confused. That's adorable.	p004_emo_amusement_freeform_1.wav	2.8	0.0
+/dataset/EARS_final/VVs/p004_emo_anger_freeform_0.wav	What, did you not see the stop sign? You just blew right through it.	p004_emo_anger_freeform_1.wav	2.2	0.0
+/dataset/EARS_final/VVs/p004_emo_confusion_freeform_0.wav	Is that a flying carpet? That's impossible.	p004_emo_confusion_freeform_1.wav	2.3	0.0
+/dataset/EARS_final/VVs/p004_emo_contentment_freeform_0.wav	This is the part of the day where you just lay back and relax. Everything's fine.	p004_emo_contentment_freeform_1.wav	6.2	0.0
+/dataset/EARS_final/VVs/p004_emo_cuteness_freeform_0.wav	Oh, look at the little baby. He's so cute and cuddly with the puppy. Aww, that looks fake. Oh my gosh, I can't be real. He's so cute.	p004_emo_cuteness_freeform_1.wav	7.0	0.0
+/dataset/EARS_final/VVs/p004_emo_desire_freeform_0.wav	Oh, look at that scrumptious little cupcake. I want to dive into that, but I'm watching my weight right now.	p004_emo_desire_freeform_1.wav	3.9	0.0
+/dataset/EARS_final/VVs/p004_emo_disappointment_freeform_0.wav	Oh my god, I just I worked my entire life. I went to college for this. I thought this was Everything right here. It was just everything was coming together and they just for some reason they don't want me	p004_emo_disappointment_freeform_1.wav	6.3	0.0
+/dataset/EARS_final/VVs/p004_emo_disgust_freeform_0.wav	Oh my goodness, that's disgusting. That looks like something out of a horror movie or a fever dream.	p004_emo_disgust_freeform_1.wav	3.3	0.0
+/dataset/EARS_final/VVs/p004_emo_distress_freeform_0.wav	Oh my god, it's like the whole world's coming at me at once. Everything is coming down on me. Oh my gosh, I need to stop procrastinating. I need to get this done, work on the next thing, and it'll all be over with.	p004_emo_distress_freeform_1.wav	5.7	0.0
+/dataset/EARS_final/VVs/p004_emo_embarassment_freeform_0.wav	Oh, everybody's laughing at me and pointing at me. I'm the center of embarrassment.	p004_emo_embarassment_freeform_1.wav	3.7	0.0
+/dataset/EARS_final/VVs/p004_emo_extasy_freeform_0.wav	Woohoo! I just won the lottery! I'm going to buy my mom a car.	p004_emo_extasy_freeform_1.wav	2.9	0.0
+/dataset/EARS_final/VVs/p004_emo_fear_freeform_0.wav	Oh my god, who's outside? Who is that?	p004_emo_fear_freeform_1.wav	2.2	0.0
+/dataset/EARS_final/VVs/p004_emo_guilt_freeform_0.wav	I'm sorry I got in the garbage and destroyed all of the papers and ate your homework and tore the socks out of the laundry.	p004_emo_guilt_freeform_1.wav	10.0	0.0
+/dataset/EARS_final/VVs/p004_emo_interest_freeform_0.wav	Hmm, climate change? This is real? Oh my goodness, we need to do something about this. We need to reduce our emissions? I drive a diesel. What are we doing?	p004_emo_interest_freeform_1.wav	10.0	0.0
+/dataset/EARS_final/VVs/p004_emo_pain_freeform_0.wav	That hurt. I just walked right into that door. I don't know who put that there. Oh my gosh.	p004_emo_pain_freeform_1.wav	8.4	0.0
+/dataset/EARS_final/VVs/p004_emo_pride_freeform_0.wav	Good job, son. You keep this up, one day you'll be on the Lakers. I can see it. Just make it happen. You can do it, buddy.	p004_emo_pride_freeform_1.wav	6.8	0.0
+/dataset/EARS_final/VVs/p004_emo_realization_freeform_0.wav	Oh, pigs don't sweat. Okay, that makes sense.	p004_emo_realization_freeform_1.wav	2.5	0.0
+/dataset/EARS_final/VVs/p004_emo_relief_freeform_0.wav	whoo thank god that cop didn't show up to court that could have been a hefty little fine got off the leash on that one I really got to slow down that man	p004_emo_relief_freeform_1.wav	6.2	0.0
+/dataset/EARS_final/VVs/p004_emo_sadness_freeform_0.wav	That puppy needs a home. He looks so sad.	p004_emo_sadness_freeform_1.wav	2.3	0.0
+/dataset/EARS_final/VVs/p004_emo_serenity_freeform_0.wav	this is what life's about the peaceful moments sitting back taking it all in listen to the sounds of nature	p004_emo_serenity_freeform_1.wav	8.1	0.0
+/dataset/EARS_final/VVs/p001_emo_adoration_freeform_2.wav	And it's just the best feeling. And the screen is dark again, but I talk in a loving way until you hit the space bar.	p001_emo_adoration_freeform_3.wav	1.8	0.0
+/dataset/EARS_final/VVs/p001_emo_amazement_freeform_2.wav	This is amazing. This like really stunts me. You should make this a career.	p001_emo_amazement_freeform_3.wav	3.4	0.0
+/dataset/EARS_final/VVs/p001_emo_cuteness_freeform_2.wav	wrapped into the dog's fur and holding onto the fur and sleeping and both just seem to be like Ah, I take a nap and like snuck	p001_emo_cuteness_freeform_3.wav	5.6	0.0
+/dataset/EARS_final/VVs/p001_emo_distress_freeform_2.wav	I just came back from vacation and I'm already overloaded with work	p001_emo_distress_freeform_3.wav	1.7	0.0
+/dataset/EARS_final/VVs/p001_emo_fear_freeform_2.wav	And I'm just all alone here. No cell reception.	p001_emo_fear_freeform_3.wav	1.4	0.0
+/dataset/EARS_final/VVs/p001_emo_pain_freeform_2.wav	Shit! Oh, that hurts so much.	p001_emo_pain_freeform_3.wav	1.0	0.0
+/dataset/EARS_final/VVs/p001_emo_realization_freeform_2.wav	Also, one quarter of your bones are in your feet. Like that's a lot and your feet are comparably...	p001_emo_realization_freeform_3.wav	3.0	0.0
+/dataset/EARS_final/VVs/p002_emo_adoration_freeform_2.wav	I think this is the right time for us to get married. You're so special to me.	p002_emo_adoration_freeform_3.wav	2.5	0.0
+/dataset/EARS_final/VVs/p002_emo_amazement_freeform_2.wav	What's going to be the next step from here? Is it going to be a move or do I stay?	p002_emo_amazement_freeform_3.wav	2.0	0.0
+/dataset/EARS_final/VVs/p002_emo_amusement_freeform_2.wav	Does he really know? Is he really out cold?	p002_emo_amusement_freeform_3.wav	1.1	0.0
+/dataset/EARS_final/VVs/p002_emo_anger_freeform_2.wav	What the heck? Come on, darn it. Get moving.	p002_emo_anger_freeform_3.wav	1.1	0.0
+/dataset/EARS_final/VVs/p002_emo_contentment_freeform_2.wav	Best kind of nap there is, 10 minutes. I'm just gonna sleep and get up and get a lot done.	p002_emo_contentment_freeform_3.wav	4.7	0.0
+/dataset/EARS_final/VVs/p002_emo_desire_freeform_2.wav	I wish I could eat all three. Do I choose just one?	p002_emo_desire_freeform_3.wav	1.5	0.0
+/dataset/EARS_final/VVs/p002_emo_disgust_freeform_2.wav	How did nobody not see this? You can't sell this to anybody.	p002_emo_disgust_freeform_3.wav	2.6	0.0
+/dataset/EARS_final/VVs/p002_emo_distress_freeform_2.wav	I'm so stressed right now and work's not making it any better. One more time.	p002_emo_distress_freeform_3.wav	3.3	0.0
+/dataset/EARS_final/VVs/p002_emo_embarassment_freeform_2.wav	Mom, help. I'm so embarrassed.	p002_emo_embarassment_freeform_3.wav	1.0	0.0
+/dataset/EARS_final/VVs/p002_emo_fear_freeform_2.wav	What the heck is going on? What is that?	p002_emo_fear_freeform_3.wav	1.8	0.0
+/dataset/EARS_final/VVs/p002_emo_guilt_freeform_2.wav	That's not right. You're going to be punished for that now.	p002_emo_guilt_freeform_3.wav	1.7	0.0
+/dataset/EARS_final/VVs/p002_emo_pain_freeform_2.wav	Just want to swear when you do that. Oh my gosh.	p002_emo_pain_freeform_3.wav	1.8	0.0
+/dataset/EARS_final/VVs/p002_emo_pride_freeform_2.wav	You made the winning point. I know you follow in my footsteps, but that was a pretty good game.	p002_emo_pride_freeform_3.wav	1.0	0.0
+/dataset/EARS_final/VVs/p002_emo_realization_freeform_2.wav	Squirrels cause most power outages in the U.S. One quarter of your bones are in your feet.	p002_emo_realization_freeform_3.wav	2.2	0.0
+/dataset/EARS_final/VVs/p002_emo_sadness_freeform_2.wav	It's just heartbreaking to see these animals. It's like a TV commercial and you have to turn the station or get up and leave.	p002_emo_sadness_freeform_3.wav	2.1	0.0
+/dataset/EARS_final/VVs/p003_emo_disgust_freeform_2.wav	The beans are, ugh, that's so nasty. The sprinkles and the icing.	p003_emo_disgust_freeform_3.wav	4.0	0.0
+/dataset/EARS_final/VVs/p003_emo_distress_freeform_2.wav	I work with idiots. They all ask me questions all day long.	p003_emo_distress_freeform_3.wav	1.7	0.0
+/dataset/EARS_final/VVs/p003_emo_embarassment_freeform_2.wav	Oh, I'm so embarrassed. Don't cry, don't cry right now.	p003_emo_embarassment_freeform_3.wav	3.2	0.0
+/dataset/EARS_final/VVs/p003_emo_extasy_freeform_2.wav	We're going on vacation. I can't believe I'm so lucky! Woohoo!	p003_emo_extasy_freeform_3.wav	1.4	0.0
+/dataset/EARS_final/VVs/p003_emo_fear_freeform_2.wav	What am I gonna do? Where is my husband?	p003_emo_fear_freeform_3.wav	1.1	0.0
+/dataset/EARS_final/VVs/p003_emo_pain_freeform_2.wav	Should have been paying better attention where I was walking. Dang it.	p003_emo_pain_freeform_3.wav	3.4	0.0
+/dataset/EARS_final/VVs/p003_emo_pride_freeform_2.wav	playing basketball for your school. You're going to be a great point guard.	p003_emo_pride_freeform_3.wav	2.1	0.0
+/dataset/EARS_final/VVs/p003_emo_realization_freeform_2.wav	I would never have thought pigs didn't sweat. That's cool.	p003_emo_realization_freeform_3.wav	2.7	0.0
+/dataset/EARS_final/VVs/p003_emo_relief_freeform_2.wav	Thankfully that cop was nice. Whew, if I had gotten a bad...	p003_emo_relief_freeform_3.wav	1.7	0.0
+/dataset/EARS_final/VVs/p004_emo_amazement_freeform_2.wav	I'm so proud of you. Keep up the hard work and we'll see where you can go one day.	p004_emo_amazement_freeform_3.wav	1.2	0.0
+/dataset/EARS_final/VVs/p004_emo_anger_freeform_2.wav	You could have T-boned me and my wife right here. Are you kidding me?	p004_emo_anger_freeform_3.wav	2.0	0.0
+/dataset/EARS_final/VVs/p004_emo_confusion_freeform_2.wav	I just can't understand what's going on here. I don't get it.	p004_emo_confusion_freeform_3.wav	4.9	0.0
+/dataset/EARS_final/VVs/p004_emo_contentment_freeform_2.wav	Nothing could get me here at home. Everything's just going to fall into place.	p004_emo_contentment_freeform_3.wav	1.9	0.0
+/dataset/EARS_final/VVs/p004_emo_desire_freeform_2.wav	I can't do it. I can't do it.	p004_emo_desire_freeform_3.wav	1.8	0.0
+/dataset/EARS_final/VVs/p004_emo_disappointment_freeform_2.wav	I'm, not good enough for them This is terrible	p004_emo_disappointment_freeform_3.wav	1.7	0.0
+/dataset/EARS_final/VVs/p004_emo_disgust_freeform_2.wav	Baked beans in a donut. That's like a twisted prank you pull on somebody.	p004_emo_disgust_freeform_3.wav	2.4	0.0
+/dataset/EARS_final/VVs/p004_emo_extasy_freeform_2.wav	I'm going to buy myself a house. I'm getting out of here.	p004_emo_extasy_freeform_3.wav	1.9	0.0
+/dataset/EARS_final/VVs/p004_emo_fear_freeform_2.wav	I've never seen him before. Why is he in all black?	p004_emo_fear_freeform_3.wav	1.2	0.0
+/dataset/EARS_final/VVs/p004_emo_sadness_freeform_2.wav	He needs to get out of that little crate. He needs to come home with me.	p004_emo_sadness_freeform_3.wav	1.8	0.0
+/dataset/EARS_final/VVs/p001_emo_distress_freeform_3.wav	and I'm already overloaded with work and I do not know how to cope with this.	p001_emo_distress_freeform_4.wav	2.7	0.0
+/dataset/EARS_final/VVs/p001_emo_pain_freeform_3.wav	Oh, that hurts so much. Damn furniture.	p001_emo_pain_freeform_4.wav	1.0	0.0
+/dataset/EARS_final/VVs/p001_emo_pride_freeform_3.wav	And I feel good that the practice between us paid off. Like, man, I bow before you.	p001_emo_pride_freeform_4.wav	4.2	0.0
+/dataset/EARS_final/VVs/p002_emo_amusement_freeform_3.wav	Is he really out cold? He probably knows	p002_emo_amusement_freeform_4.wav	1.0	0.0
+/dataset/EARS_final/VVs/p002_emo_desire_freeform_3.wav	Do I choose just one? Oh my gosh, I...	p002_emo_desire_freeform_4.wav	1.7	0.0
+/dataset/EARS_final/VVs/p002_emo_disgust_freeform_3.wav	You can't sell this to anybody. Where's management at?	p002_emo_disgust_freeform_4.wav	1.6	0.0
+/dataset/EARS_final/VVs/p002_emo_pride_freeform_3.wav	I know you follow in my footsteps, but that was a pretty good game. You're a pretty good basketball player.	p002_emo_pride_freeform_4.wav	3.1	0.0
+/dataset/EARS_final/VVs/p002_emo_realization_freeform_3.wav	One quarter of your bones are in your feet. The inventor of the Pringles can is buried in a Pringle can.	p002_emo_realization_freeform_4.wav	2.2	0.0
+/dataset/EARS_final/VVs/p003_emo_disgust_freeform_3.wav	The sprinkles and the icing. Okay.	p003_emo_disgust_freeform_4.wav	2.2	0.0
+/dataset/EARS_final/VVs/p003_emo_distress_freeform_3.wav	They all ask me questions all day long. I need a mental break.	p003_emo_distress_freeform_4.wav	2.8	0.0
+/dataset/EARS_final/VVs/p003_emo_fear_freeform_3.wav	Where is my husband? He was supposed to be home at six.	p003_emo_fear_freeform_4.wav	1.5	0.0
+/dataset/EARS_final/VVs/p003_emo_pain_freeform_3.wav	Dang it. That hurt.	p003_emo_pain_freeform_4.wav	1.5	0.0
+/dataset/EARS_final/VVs/p003_emo_pride_freeform_3.wav	You're going to be a great point guard. We can work on that three-point shot.	p003_emo_pride_freeform_4.wav	2.1	0.0
+/dataset/EARS_final/VVs/p003_emo_realization_freeform_3.wav	That's cool. Wow, I would not have guessed it's squirrels calling all of these power outages.	p003_emo_realization_freeform_4.wav	3.0	0.0
+/dataset/EARS_final/VVs/p004_emo_amazement_freeform_3.wav	Keep up the hard work and we'll see where you can go one day. That's amazing.	p004_emo_amazement_freeform_4.wav	2.8	0.0
+/dataset/EARS_final/VVs/p004_emo_confusion_freeform_3.wav	I don't get it. Is he...	p004_emo_confusion_freeform_4.wav	1.3	0.0
+/dataset/EARS_final/VVs/p004_emo_desire_freeform_3.wav	I can't do it. It's too many calories in that little sugar pocket.	p004_emo_desire_freeform_4.wav	1.1	0.0
+/dataset/EARS_final/VVs/p004_emo_disappointment_freeform_3.wav	This is terrible I don't know what i'm gonna do	p004_emo_disappointment_freeform_4.wav	1.6	0.0
+/dataset/EARS_final/VVs/p004_emo_disgust_freeform_3.wav	That's like a twisted prank you pull on somebody. That's disgusting.	p004_emo_disgust_freeform_4.wav	2.2	0.0
+/dataset/EARS_final/VVs/p004_emo_extasy_freeform_3.wav	I'm getting out of here. We made it.	p004_emo_extasy_freeform_4.wav	1.3	0.0
+/dataset/EARS_final/VVs/p004_emo_fear_freeform_3.wav	Why is he in all black? What's in his hand?	p004_emo_fear_freeform_4.wav	1.1	0.0
+/dataset/EARS_final/VVs/p004_emo_sadness_freeform_3.wav	He needs to come home with me. Poor little guy.	p004_emo_sadness_freeform_4.wav	1.8	0.0

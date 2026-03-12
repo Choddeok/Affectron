@@ -1,0 +1,1 @@
+mfa align "/dataset/EARS_final/VVs" english_mfa  english_mfa "/dataset/EARS_final/TextGrid_mfa" --speaker_characters 4 --verbose --clean --beam 100 --retry_beam 400
