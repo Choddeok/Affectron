@@ -13,6 +13,10 @@
 
 <div align="center">
 
+<a href="https://arxiv.org/abs/2603.14432" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Paper-arXiv-B31B1B?style=for-the-badge" />
+</a>
+
 <a href="https://choddeok.github.io/Affectron/" target="_blank">
   <img src="https://img.shields.io/badge/🎧%20Demo-Listen%20Here-8A2BE2?style=for-the-badge" />
 </a>
